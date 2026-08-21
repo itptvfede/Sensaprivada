@@ -70,6 +70,18 @@ https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer
 https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+#EXTINF:-1 tvg-id="Argentina12.ar" tvg-name="Argentina 12" group-title="NACIONALES", Argentina 12
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://player.sensa.com.ar
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61635507689b4c74568928cc0f5d82d9:34f254be5f3d6a8ab44c28b4cb2e5a4a
+https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd
+
+
 
 
 
