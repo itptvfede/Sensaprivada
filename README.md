@@ -92,7 +92,7 @@ https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://p
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="DEPORTES", TyC Sports
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://i.ibb.co/zWv4fvcg/tyc.png" group-title="DEPORTES", TyC Sports
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
@@ -102,6 +102,7 @@ https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" group-title="DEPORTES", ESPN
 #EXTVLCOPT:http-reconnect=true
