@@ -12,7 +12,7 @@
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica TV" tvg-logo="https://ibb.co/WvZJZqHx" group-title="NACIONALES", Crónica TV
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica TV" tvg-logo="https://i.ibb.co/0yTbT8nD/cronicatv.png" group-title="NACIONALES", Crónica TV
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
