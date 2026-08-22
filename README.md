@@ -136,8 +136,7 @@ https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd?|referer=htt
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
 https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
-#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT" tvg-logo="https://i.ibb.co/hxQ3W1Gw/tnt3.jpg" group-title="PELÍCULAS", TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT" tvg-logo="https://i.ibb.co/q3dmP3FQ/3tnt.png" group-title="PELÍCULAS", TNT
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
