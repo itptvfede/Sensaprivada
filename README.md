@@ -11,7 +11,8 @@
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica TV" group-title="NACIONALES", Crónica TV
+
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica TV" tvg-logo="https://ibb.co/WvZJZqHx" group-title="NACIONALES", Crónica TV
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
@@ -21,6 +22,7 @@ https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://playe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
  
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="NACIONALES Y NOTICIAS", C5N
 #EXTVLCOPT--http-reconnect=true
