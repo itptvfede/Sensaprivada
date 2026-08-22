@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" tvg-group="Noticias", TN
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://i.ibb.co/G31zdfTn/TN.jpg" tvg-group="Noticias", TN
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
